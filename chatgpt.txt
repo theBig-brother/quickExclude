@@ -1,0 +1,6 @@
+flutter写一个页面，要求：有BottomNavigationBar ，首页，图片，我的，三个页面。其中，首页是相机，
+
+图片：flutter打开一个提前写好的文件夹，把里面所有的图片全部显示出缩略图，点击缩略图打开大图，左上有返回键。
+另外这些功能全部封装成组件，封装的时候全部写在一个Container里面。/storage/emulated/0/DCIM/QuickExclude
+
+我的：flutter写一个“我的”页面，封装成组件，全部写在一个container里面。
